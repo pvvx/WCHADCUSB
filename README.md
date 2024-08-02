@@ -20,7 +20,7 @@ Test Web-oscilloscope on built-in 1Mbps 12-bit ADC in CH32V30x via USB2.0 HS bus
 
 ![img](https://raw.githubusercontent.com/pvvx/WCHADCUSB/master/img/usb20hs_echo.gif)
 
-Значения в Мегабайтах в секнуду.
+Значения в Мегабайтах в секунду.
 
 ## Сборка проекта
 
